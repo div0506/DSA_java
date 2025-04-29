@@ -1,0 +1,18 @@
+
+public class Functions
+
+//Simple function
+{
+public static void intro()
+{
+System.out.println("I am Divanshu");
+}
+}
+
+//Void function
+public static void main()
+{
+int a=2 , b = 3;
+System.out.println("sum of a and b is : "+ (a+b))
+}
+
